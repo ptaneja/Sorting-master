@@ -1,10 +1,4 @@
-//
-//  AppDelegate.m
-//  Sorting
-//
-//  Created by Tringapps Inc on 6/29/14.
-//  Copyright (c) 2014 TringApps. All rights reserved.
-//
+
 
 #import "AppDelegate.h"
 
